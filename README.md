@@ -1,4 +1,4 @@
-# Быстрый старт Spring + Liquibase :fire:
+# Быстрый старт Spring + Liquibase + H2
 
 Статья на sendel.ru:
 
